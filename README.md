@@ -27,6 +27,8 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 <footer>
 
+Collaborations highly welcomed and don't forget to Star ⭐💫🌟✨🌠 the repo if you find it rocking 🚀 Made with🌹💚💙
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
