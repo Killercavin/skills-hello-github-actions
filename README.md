@@ -30,6 +30,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 <footer>
 
+Collaborations highly welcomed and don't forget to Star ⭐💫🌟✨🌠 the repo if you find it rocking 🚀 Made with🌹💚💙
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
